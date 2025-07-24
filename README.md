@@ -10,3 +10,20 @@ DOMAIN: CYBER SECURITY AND ETHICAL HACKING
 DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/42996bd3-db82-4ad1-b829-972603c50f4c" />
+
+
+
+
